@@ -1,0 +1,10 @@
+Html Entities:
+
+An HTML entity is used to display invisible characters and reserved characters that would otherwise be interpreted as HTML code. 
+
+eg:
+£	pound                   &pound;		
+¥	yen	                &yen;	
+€	euro	                &euro;		
+©	copyright	        &copy;	
+®	registered trademark	&reg;

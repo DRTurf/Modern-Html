@@ -1,0 +1,5 @@
+Three ways that help us improve the accessibility of html:
+
+Creating good links
+Using Alternative texts
+Using semantic tags
